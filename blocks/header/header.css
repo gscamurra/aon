@@ -145,6 +145,10 @@ header .nav-brand {
   line-height: 1;
 }
 
+header .nav-brand .default-content-wrapper p:nth-of-type(2) {
+  margin-top: 20px;
+}
+
 header nav .nav-brand img {
   width: 100px;
   height: auto;

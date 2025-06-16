@@ -65,7 +65,7 @@
   .hero {
     padding: 40px 32px;
   }
-  .hero h1 .hero h2, .hero .button-container {
+  .hero h1, .hero h2, .hero .button-container {
     max-width: 600px;
     margin-left: 0;
   }

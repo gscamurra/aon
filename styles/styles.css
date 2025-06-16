@@ -274,12 +274,11 @@ main .section.highlight {
 }
 
 .section.products .default-content-wrapper .button-container a {
-  padding: 10px 10px;
-  color: white;
-  border: 1.5px solid #eb0017;
-  border-radius: 4px;
-  background-color: #eb0017;
-  font-size: 16px;
+  color: #eb0017;
+  background: #FFF;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
 }
 
 

@@ -256,7 +256,7 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-.section .products .default-content-wrapper {
+.section.products .default-content-wrapper {
   text-align: center;
   background: #FFF;
   padding-top: 10px;

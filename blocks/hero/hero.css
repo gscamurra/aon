@@ -14,6 +14,11 @@
   margin-left: auto;
   margin-right: auto;
   color: var(--background-color);
+  font-size: 40px;
+}
+
+.hero h2 {
+  font-size: 20px;
 }
  
 .hero h2, .hero .button-container  {

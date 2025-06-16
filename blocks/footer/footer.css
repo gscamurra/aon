@@ -16,6 +16,14 @@ footer .columns img {
   width: auto !important;
 }
 
+footer .default-content-wrapper {
+  border-top: 1px solid lightgray;
+  margin-top: 50px;
+  padding-top: 18px;
+  color: #7a838e;
+}
+
+
 @media (width >= 900px) {
   footer .footer > div {
     padding: 40px 32px 24px;

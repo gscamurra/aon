@@ -16,9 +16,6 @@
 }
 
 .hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
   color: var(--background-color);
   font-size: 40px;
 }
@@ -27,7 +24,7 @@
   font-size: 20px;
 }
  
-.hero h2, .hero .button-container  {
+.hero h1 .hero h2, .hero .button-container  {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;

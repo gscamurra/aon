@@ -29,7 +29,7 @@
   margin-right: auto;
 }
 
-.hero .button-container {
+.hero .button-container a {
   padding: 10px 10px;
   color: white;
   border: 1.5px solid #eb0017;

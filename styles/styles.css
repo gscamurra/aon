@@ -256,7 +256,7 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-.section.products {
+main .section.highlight {
   margin-top: 170px;
 }
 
@@ -271,6 +271,15 @@ main .section.highlight {
   border-radius: 4px;
   background-color: white;
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.section.products .default-content-wrapper .button-container a {
+  padding: 10px 10px;
+  color: white;
+  border: 1.5px solid #eb0017;
+  border-radius: 4px;
+  background-color: #eb0017;
+  font-size: 16px;
 }
 
 

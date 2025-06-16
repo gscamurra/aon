@@ -19,6 +19,16 @@
   display: block;
 }
 
+.offers h3 {
+  font-size: 40px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.offers p {
+  color: #7a838e;
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;

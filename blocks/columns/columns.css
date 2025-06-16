@@ -29,7 +29,7 @@
   color: #7a838e;
 }
 
-.offers p a {
+.offers p a, .offers a.button:any-link, .offers button {
   color: #eb0017;
   background: #FFF;
   border-radius: 0;

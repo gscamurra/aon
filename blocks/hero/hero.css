@@ -24,6 +24,9 @@
 
 .hero h1, .hero h2 {
   background-color: #f9fafb;
+  font-family: unset;
+  color: black;
+  padding: 10px;
 }
 
 .hero .button-container a {

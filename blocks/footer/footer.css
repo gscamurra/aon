@@ -13,7 +13,7 @@ footer .footer p {
 }
 
 footer .columns img {
-  width: auto;
+  width: auto !important;
 }
 
 @media (width >= 900px) {

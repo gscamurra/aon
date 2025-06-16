@@ -144,6 +144,10 @@
           {
             "name": "Products",
             "value": "products"
+          },
+          {
+            "name": "Actions",
+            "value": "actions"
           }
         ]
       }

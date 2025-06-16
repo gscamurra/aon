@@ -23,6 +23,10 @@ footer .default-content-wrapper {
   color: #7a838e;
 }
 
+footer .columns-5-cols div {
+  height: 150px;
+}
+
 
 @media (width >= 900px) {
   footer .footer > div {

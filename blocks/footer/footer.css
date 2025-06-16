@@ -1,5 +1,4 @@
 footer {
-  background-color: var(--light-color);
   font-size: var(--body-font-size-xs);
 }
 
@@ -11,6 +10,10 @@ footer .footer > div {
 
 footer .footer p {
   margin: 0;
+}
+
+footer .columns img {
+  width: auto;
 }
 
 @media (width >= 900px) {

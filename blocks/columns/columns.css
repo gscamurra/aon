@@ -29,6 +29,14 @@
   color: #7a838e;
 }
 
+.offers p a {
+  color: #eb0017;
+  background: #FFF;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;

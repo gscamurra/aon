@@ -6,7 +6,7 @@ header .nav-wrapper {
   position: fixed;
 }
 
-header .nav-wrapper .button-wrapper a {
+.nav-wrapper .button-container a {
   color: #000;
   margin: 0;
   padding: 8px;

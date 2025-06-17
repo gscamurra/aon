@@ -41,6 +41,10 @@
   padding: 0;
 }
 
+.actions {
+  margin-top: 150px !important;
+}
+
 .actions .columns img {
   width: 60px !important;
 }

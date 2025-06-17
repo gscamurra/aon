@@ -6,6 +6,16 @@ header .nav-wrapper {
   position: fixed;
 }
 
+header .nav-wrapper .button-wrapper a {
+  color: #000;
+  margin: 0;
+  padding: 8px;
+  border-radius: 5px;
+  background-color: #FFF;
+  font-size: 16px;
+  border: 1px solid;
+}
+
 header nav {
   box-sizing: border-box;
   display: grid;

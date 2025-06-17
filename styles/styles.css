@@ -257,8 +257,8 @@ main .section.highlight {
 }
 
 .products {
-  margin-top: 150px;
-  margin-bottom: 100px
+  margin-top: 150px !important;
+  margin-bottom: 100px !important;
 }
 
 .section.products .default-content-wrapper {

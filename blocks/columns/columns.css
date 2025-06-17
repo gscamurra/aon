@@ -20,7 +20,7 @@
 }
 
 .offers {
-  margin-top: 100px;
+  margin-top: 100px !important;
 }
 
 .offers h3 {

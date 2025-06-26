@@ -20,5 +20,7 @@ export default function decorate(block) {
     img.closest('picture').replaceWith(optimizedPic);
   });
   block.textContent = '';
+  block.removeAttribute('data-aue-type');
+  block.removeAttribute('data-aue-resource');
   block.append(ul);
 }

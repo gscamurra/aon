@@ -1,9 +1,6 @@
 export default function decorate(block) {
   const cols = [...block.firstElementChild.children];
   block.classList.add(`columns-${cols.length}-cols`);
-  
-  block.removeAttribute('data-aue-type');
-  block.removeAttribute('data-aue-resource');
 
   // setup image columns
   [...block.children].forEach((row) => {

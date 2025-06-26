@@ -15,7 +15,4 @@ export default function decorate(block) {
       }
     });
   });
-
-  block.removeAttribute('data-aue-type');
-  block.removeAttribute('data-aue-resource');
 }

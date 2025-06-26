@@ -8,19 +8,3 @@ export default async function decorate(block) {
   await loadFragment(block, promoPath);
 }
 
-// Funzione per creare e inserire il div promo in pagina…
-function injectPromoBlock() {
-  const header = document.querySelector('header.header');
-  // Se header esiste, crea il div "promo" e inseriscilo subito dopo
-  if (header) {
-    // Verifica che il div promo non sia già presente
-    if (!document.querySelector('.promo')) {
-      const promoDiv = document.createElement('div');
-      promoDiv.className = 'promo';
-      header.parentNode.insertBefore(promoDiv, header.nextSibling);
-    }
-  }
-}
-
-// Esegui subito la funzione dopo il caricamento del DOM
-document.addEventListener('DOMContentLoaded', injectPromoBlock);
